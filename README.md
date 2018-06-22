@@ -10,9 +10,9 @@ An lightweight utility library for validate objects.
 
 ## Use example:
 
-This example show how validate instances of the Person class.
+This example show how validate instances of the Person class:
 
-```
+```java
 package com.example;
 
 import com.infinityrefactoring.lightvalidator.Validator;
@@ -51,7 +51,7 @@ public class Person {
 
 Running the validation:
 
-```
+```java
 package com.example;
 
 import java.util.Map;
